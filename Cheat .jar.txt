@@ -1,1 +1,1 @@
-C:\Users\simon\AppData\Roaming\ow-electron
+C:\Users\%username%\AppData\Roaming\ow-electron
