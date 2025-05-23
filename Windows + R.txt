@@ -1,0 +1,3 @@
+shell:recent
+prefetch
+C:\Users\%username%\AppData\Local\CrashDumps

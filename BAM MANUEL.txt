@@ -1,0 +1,5 @@
+Regedit
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\bam\
+State
+UserSettings
+[User Identifier], the one that is currently active will be the one that ends in 1001.

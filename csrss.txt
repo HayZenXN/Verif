@@ -1,0 +1,5 @@
+EXPORTER LE CSRSS
+-> System informer ( Mode canary et Kernel mods
+-> csrss ( Prendre celui qui a est le plus lourds ) 
+-> Memorie en 4 Strings 
+-> Exporter en .txt
